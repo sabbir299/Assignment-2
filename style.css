@@ -1,0 +1,252 @@
+
+
+/***********
+   top section style
+   *****************/
+  .continer{
+   display: flex;
+   justify-content: space-between;
+   margin-top: 20px;
+   margin-left: 150px;
+   margin-right: 150px;
+   
+  }
+  .list-iteam, ul{
+   display: flex;
+   align-items: center;
+   margin-left: 30px;
+  }
+  .list-iteam  li{
+   list-style: none;
+   font-size: 30px;
+   margin-right: 90px;
+
+  }
+  .porject-name{
+   font-weight: bold;
+   font-size: 39px;
+   margin-left: 100px;
+  }
+ 
+  /**second-section*/
+  .second-section{
+   margin-left: 300px;
+   margin-right: 275px;
+   text-align: center;
+   margin-top: 50px;
+   margin-bottom: 7px;
+  }
+  .group-info{
+   font-size: 45px;
+   font-weight: bold;
+  }
+  .group-descipation{
+    font-size: 25px;
+    font-weight: 500;
+    
+  }
+  .btn{
+   color: white;
+  font-weight: 700;
+font-size: 16px;
+background-color: #FD6E0A;
+padding: 10px 32px;
+border-radius: 7px;
+margin: 0%;
+
+  }
+  .btn-info{
+    padding: 20px 40px;
+    background-size: 40px;
+  }
+/*first img*/
+.img, img{
+  width: 85%;
+margin-left: 170px;
+margin-top: 15px;
+margin-bottom: 15px;
+
+  
+}
+main{
+  background-color:rgb(247, 221, 190) ;
+}
+
+/***features-continer*/
+.img-and-features-detials{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 60px;
+}
+.featurs-info{
+  margin-top: 200px;
+  margin-right: 450px;
+}
+
+  .teams{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-left: 240px;
+    gap: 10px;
+    
+  }
+
+  .titel{
+    font-size: 50px;
+  }
+  .featurs-descpition{
+    font-size: 25px;
+    font-weight: 500;
+    
+  }
+  .text-primary{
+    color: #FD6E0A;
+  }
+  .word-styl{
+    color: rgb(145, 142, 139);
+  }
+
+  /****Experience-continer*/
+  .Experience-continer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+  }
+  .box{
+    background-color: snow;
+    box-shadow: aliceblue;
+    border-radius: 5px;
+    margin-left: 290px;
+    gap: 10px;
+    
+  }
+.without-background-box{
+  margin-left: 290px;
+  border-left: #FD6E0A 5px solid ;
+  
+}
+.titel{
+  font-size: 50px;
+}
+.without-background-box-titel{
+  font-size: 26px;
+}
+
+  .box-titel{
+    font-size: 40px;
+    margin: 30px 30px;
+    border: 5px;
+  }
+  .decsipition-titel{
+    font-size: 25px;
+    margin: 20px 20px;
+
+  }
+  .architect{
+    margin-right: 400px;
+    width: 1000pxpx;
+    height: 500px;
+  }
+  .button-primary{
+    font-size: 40px;
+    
+  }
+  .box-continer{
+display: flex;
+margin-left: 100px;
+  }
+  .button{
+    margin-bottom: 150px;
+    margin-left: 1200px;
+   
+  }
+/**********/
+  .section-title{
+    font-size: 60px;
+    margin-left: 300px;
+    font-weight: 500;
+  }
+  .detials{
+    font-size: 20px;
+    margin-left: 300px;
+    font-weight: bold;
+    color: rgb(145, 142, 139);
+  }
+/*********/
+  .achiv-continer{
+    margin-top: 130px;
+  }
+  .skill{
+   align-items: center;
+border: 1px solid #FD6E0A;
+
+    
+  }
+  .skills-continer{
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 40px;
+  
+  }
+  .total-job{
+    
+    font-weight: bold;
+   margin: 50px auto;
+    font-size: 50px;
+    
+   
+  }
+  .Workplac{
+    font-size: 30px;
+    
+  }
+  .skills-continer .sikill{
+    border: 5px solid #FD6E0A ;
+    align-items: center;
+    
+    
+  }
+  .icon{
+    width: 70px;
+    height: 70px;
+    margin-right: 317px;
+    
+    
+  }
+/***********/
+.Sponspors-info{
+  text-align:center ;
+  margin-top: 200px;
+}
+.Sponspors-titel{
+  font-size: 60px;
+  font-weight: bold;
+}
+.Sponspors-detials{
+  font-size: 25px;
+}
+.Sponspors-company{
+  display: flex;
+  gap: 40px;
+}
+.company-img{
+  margin: 0 auto;
+}
+.footer{
+  width: 1600px;
+  height: 150px;
+  background-color: rgb(238, 212, 203);
+  border-radius: 5px;
+  align-items: center;
+  margin: 300px 100px;
+  align-items: center;
+  margin-left: 650px;
+}
+.footer-titel{
+  font-size: 30px;
+  text-align: center;
+  
+}
